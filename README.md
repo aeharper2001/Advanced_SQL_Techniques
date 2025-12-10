@@ -2,8 +2,9 @@
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
 ### SQL projects demonstrate comprehensive skills like: 
- - <b>Retrieving Data from a Single Table</b>
- - <b>Filtering and Calculating Data</b>
+ - <b>Retrieving Data from a Multiple Tables</b>
+ - <b>Filtering, Calculating Data, Group By, Having, Left, Inner, and Full Joins</b>
+ - <b>Unions and Subqueries</b>
  - <b>Summarizing the Data</b>
 
 <h2>SQL Project 1</h2>
@@ -84,12 +85,93 @@ Thanks, but may you provide this into a compiled list?
 
 ###
 <p align="center">
-Union - Full Join, Left Join, and Date Functions (Query 2 to Union): <br/>
+Union - Full Join, Left Join, and Date Functions (Query 2 to Project 6): <br/>
 <img width="415" height="383" alt="Image" src="https://github.com/user-attachments/assets/a0a82af9-71e0-4168-a920-b057fd2dbbc7" />
 <br />
 <br />
 
+<h2>SQL Project 8</h2>
+Identify all order numbers that were not returned and contained SKUs belonging to the 2-family product group.
+This analysis will help determine whether specific product families are associated with higher fulfillment success rates and may support inventory planning or supplier negotiations. We only need to see the order numbers listed.
 
+
+Identify B2C customer orders that were returned as duplicates during Q1 2023, where the order included product keys beginning with 3 or 7.
+Your goal is to isolate patterns related to duplicate shipments and evaluate whether specific product categories are driving operational or fulfillment inefficiencies.
+
+Thanks, but with the lists you provided for the non-returned orders and the returned orders, we need a consolidated list in order for Supply Chain to complete a comparative analysis to identify trends in product performance and operational accuracy.
+<br />
+
+###
+<p align="center">
+Union - 3 Joined Queries (Original Query to Project 9): <br/>
+<img width="329" height="314" alt="Image" src="https://github.com/user-attachments/assets/e202b979-2aae-4e7e-9d2d-0b285a206ab3" />
+<br />
+<br />
+
+<h2>SQL Project 9</h2>
+From the following consolidated list that you provided a few days ago, may you provide the number of orders?
+The consolidated list that you provided included the following groups:
+Identify all order numbers that were not returned and contain SKUs belonging to the 2-family SKU group.
+Identify B2C customer orders that were returned as duplicates during Q1 2023, where the order included product keys beginning with 3 or 7.
+Identify B2B and Government non - standard customer orders that were not returned and placed by customers who are active and have been customers for at least 5 years.
+
+<br />
+
+###
+<p align="center">
+Subquery (Orignal Query Project 8): <br/>
+<img width="421" height="356" alt="Image" src="https://github.com/user-attachments/assets/beecba4e-604e-4d1b-ba78-f295dac57f6c" />
+<br />
+<br />
+
+<h2>SQL Project 9</h2>
+The credit union is evaluating opportunities to improve member growth and streamline the onboarding pipeline. To support decision-making, you have been asked to develop a consolidated list of both customers and applicants.
+Please include the following:
+Unique Identifier (ID)
+First and Last Name
+Status (Applicant vs Customer)
+
+Identify all applicants who completed online registration and determine the core attributes required to analyze digital engagement. We need this for applicants who have at least a 750 credit score and reside in the Southwest region OR applicants who are not located in NY, CA, and/or HI. Your output should include:
+Member ID
+First and Last Name
+Method of Sign-Up (channel of enrollment)
+Credit score
+Email address (if they have one on record)
+Consider how isolating online sign-ups could help the credit union assess digital adoption trends and improve member acquisition strategies.
+
+Identify all customers in our market who registered in person at a physical branch location and extract the fields necessary to evaluate member engagement through face-to-face channels. We need this for individuals who have at least a 700 credit score, didn’t require a co-signer, and have had their account for at least 7 years OR customers who are younger than 65 years old who have had their account for at least 10 years. Your output should include:
+Member ID
+First and Last Name
+Method of Sign-Up (branch enrollment)
+Credit score
+Email address (if they have one on record)
+Consider how analyzing in-person registration volume can provide insight into branch effectiveness, staffing needs, and the balance between digital and traditional onboarding strategies.
+<br />
+
+###
+<p align="center">
+Union: Date Functions Calculated fields, Group by and Having (Original Query to Project 10): <br/>
+<img width="299" height="302" alt="Image" src="https://github.com/user-attachments/assets/eed3ad57-f64e-4efd-be16-4753a4f3b870" />
+<br />
+<br />
+
+<h2>SQL Project 10</h2>
+From the following consolidated list that you provided a few days ago, may you provide the following:
+Number of individuals in the list
+Average credit score
+Highest credit score
+Lowest credit score
+The consolidated list that you provided included the following groups:
+Identify all applicants who completed online registration and determine the core attributes required to analyze digital engagement. We need this for applicants who have at least a 750 credit score and reside in the Southwest region OR applicants who are not located in NY, CA, and/or HI. 
+Identify all customers in our market who registered in person at a physical branch location and extract the fields necessary to evaluate member engagement through face-to-face channels. We need this for individuals who have at least a 700 credit score, didn’t require a co-signer, and have had their account for at least 7 years OR customers who are younger than 65 years old who have had their account for at least 10 years.
+<br />
+
+###
+<p align="center">
+Subquery: <br/>
+<img width="299" height="302" alt="Image" src="https://github.com/user-attachments/assets/eed3ad57-f64e-4efd-be16-4753a4f3b870" />
+<br />
+<br />
 
 
 

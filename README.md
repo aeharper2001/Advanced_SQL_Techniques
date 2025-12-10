@@ -85,7 +85,7 @@ Thanks, but may you provide this into a compiled list?
 
 ###
 <p align="center">
-Union - Full Join, Left Join, and Date Functions (Query 2 to Project 6): <br/>
+Union - Full Join, Left Join, and Date Functions (Query 2, 1st Query Project 6): <br/>
 <img width="415" height="383" alt="Image" src="https://github.com/user-attachments/assets/a0a82af9-71e0-4168-a920-b057fd2dbbc7" />
 <br />
 <br />
@@ -119,12 +119,12 @@ Identify B2B and Government non - standard customer orders that were not returne
 
 ###
 <p align="center">
-Subquery (Orignal Query Project 8): <br/>
+Subquery (Orignal Query from Project 8): <br/>
 <img width="421" height="356" alt="Image" src="https://github.com/user-attachments/assets/beecba4e-604e-4d1b-ba78-f295dac57f6c" />
 <br />
 <br />
 
-<h2>SQL Project 9</h2>
+<h2>SQL Project 10</h2>
 The credit union is evaluating opportunities to improve member growth and streamline the onboarding pipeline. To support decision-making, you have been asked to develop a consolidated list of both customers and applicants.
 Please include the following:
 Unique Identifier (ID)
@@ -150,12 +150,12 @@ Consider how analyzing in-person registration volume can provide insight into br
 
 ###
 <p align="center">
-Union: Date Functions Calculated fields, Group by and Having (Original Query to Project 10): <br/>
+Union: Date Functions Calculated fields, Group by and Having (Original Query to Project 11): <br/>
 <img width="299" height="302" alt="Image" src="https://github.com/user-attachments/assets/eed3ad57-f64e-4efd-be16-4753a4f3b870" />
 <br />
 <br />
 
-<h2>SQL Project 10</h2>
+<h2>SQL Project 11</h2>
 From the following consolidated list that you provided a few days ago, may you provide the following:
 Number of individuals in the list
 Average credit score
